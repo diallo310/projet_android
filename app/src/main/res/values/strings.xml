@@ -4,4 +4,6 @@
     <string name="password">Mot de passe</string>
     <string name="username">username</string>
     <string name="create_compte">Creer votre compte</string>
+    <string name="contacts">Liste des contacts</string>
+    <string name="messages">Message</string>
 </resources>
